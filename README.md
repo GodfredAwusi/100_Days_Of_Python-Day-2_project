@@ -1,0 +1,2 @@
+# Tip Calculator
+Write a program that takes the total bill of a group of people and then ask them the tip they would like to give. Ask the number of people that are to split the bill and display the amount each of them is to pay
